@@ -1,0 +1,113 @@
+.logo{
+    width: 180px;
+    height: 50px;
+}
+.navbar-nav{
+    justify-content: space-around;
+}
+.nav-link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 500 !important;
+}
+.nav-link:hover{
+    color: #e23744 !important;
+}
+.btn{ 
+    width: 80px;
+    border-radius: 90px !important;
+    border: none;
+}
+.btn:nth-child(1):hover{
+    color: #e23744;
+}
+
+.btn:nth-child(2){
+      background-color: #e23744;
+      color: white;
+      border-color: #e23744;
+}
+.btn:nth-child(2):hover{
+    background-color: #e23744;
+      color: white;
+      border-color: #e23744;
+}
+.red{
+    color: #e23744;   
+}
+.mt-4{
+    width: 80%;
+    height: 50% !important;
+    border: 1px solid darkslateblue;
+    position: relative;
+    left: 15%;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 38px;
+}
+.box{
+    height: 100% !important;
+    width: 70%;
+    padding: 15px 5px 20px 5px;
+    border-width: 2px;
+    border-color: #e23744;
+   
+}
+.box:focus-visible{
+    border-color: #e23744;
+}
+.it{
+    
+    margin-left: -4%;
+}
+i{
+    left: 30px;
+    position: relative;
+    right: 70px;
+}
+
+.pt-3{
+    position: relative;
+    left: -15px;
+    width: 90%;
+    border: 2px solid #e23744 ;
+}
+.vehicle{
+    position: relative;
+    left: -2px;
+}
+.calender{
+    width: 20%;
+    position: relative;
+    left: 3px;
+    border:2px solid #e23744 ;
+    justify-content: space-between;
+}
+.btn-primary{
+    width: 60%;
+    height: 70px;
+    padding: 7px;
+    margin-top: 30px;
+    background-color: #e23740 !important;
+    color: white !important;
+} 
+.btn-primary:hover{
+    background-color: #e23744 !important;
+    color: white !important;
+}
+.pic{
+    width: 50%;
+    position: relative;
+    left: 45%;
+    border-image: none !important;
+}
+.work {
+    width: 58%;
+    position: relative;
+    bottom: 350px !important;
+    align-items: center;
+}
+
